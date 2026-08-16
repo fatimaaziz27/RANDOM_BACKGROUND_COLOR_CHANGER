@@ -22,13 +22,3 @@ RANDOM_BACKGROUND_COLOR_CHANGER/
 ## Purpose
 
 This project was created as a beginner JavaScript practice project to understand how JavaScript can interact with HTML and CSS and dynamically change webpage styles.
-
-## 👩‍💻 Author
-
-**Fatima Aziz**
-
-GitHub: https://github.com/fatimaaziz27
-
-## 📄 License
-
-This project is open source and available for learning and educational purposes.
